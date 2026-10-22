@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "capturedAt": "2026-10-22T18:24:27.364Z",
+  "capturedAt": "2026-10-22T18:41:36.777Z",
   "baseUrl": "https://imbajobs.com",
   "candidateLimit": 30,
   "rowLimit": 20,
@@ -9,7 +9,7 @@
     {
       "repository": "2027-New-Grad-Jobs-Sponsorship-Evidence",
       "url": "https://imbajobs.com/api/jobs?country=US&type=new_grad&q=2027&sponsor=all&limit=30&page=1",
-      "fetchedAt": "2026-10-22T18:23:19.493Z",
+      "fetchedAt": "2026-10-22T18:41:14.529Z",
       "total": 312,
       "candidates": [
         "2026-2027-substitute-teacher-pool-at-the-wonderful-hlp8gv",
@@ -48,7 +48,7 @@
   "details": [
     {
       "url": "https://imbajobs.com/api/jobs/2026-2027-substitute-teacher-pool-at-the-wonderful-hlp8gv",
-      "fetchedAt": "2026-10-22T18:23:21.718Z",
+      "fetchedAt": "2026-10-22T18:41:15.280Z",
       "job": {
         "id": "cc51bfd0-9209-44b4-ad5a-ad7d1107a9eb",
         "slug": "2026-2027-substitute-teacher-pool-at-the-wonderful-hlp8gv",
@@ -83,7 +83,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-associate-electrical-engineer-electrical-at-northrop-grumman-kug4im",
-      "fetchedAt": "2026-10-22T18:23:22.458Z",
+      "fetchedAt": "2026-10-22T18:41:16.023Z",
       "job": {
         "id": "89161e02-9366-455f-8689-36e0e37d00f4",
         "slug": "2027-associate-electrical-engineer-electrical-at-northrop-grumman-kug4im",
@@ -109,7 +109,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-associate-electrical-engineer-electrical-at-northrop-grumman-s1ps59",
-      "fetchedAt": "2026-10-22T18:23:23.145Z",
+      "fetchedAt": "2026-10-22T18:41:16.747Z",
       "job": {
         "id": "3a64752b-0537-41ac-9b0e-d7224f5c2099",
         "slug": "2027-associate-electrical-engineer-electrical-at-northrop-grumman-s1ps59",
@@ -135,7 +135,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-associate-engineer-engineer-aeronautical-at-northrop-grumman-7mg16a",
-      "fetchedAt": "2026-10-22T18:23:23.848Z",
+      "fetchedAt": "2026-10-22T18:41:17.497Z",
       "job": {
         "id": "92763424-ab06-4194-bbb9-502195c3b74e",
         "slug": "2027-associate-engineer-engineer-aeronautical-at-northrop-grumman-7mg16a",
@@ -161,7 +161,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-associate-hazards-analyst-engineer-hazard-at-northrop-grumman-tlzl5k",
-      "fetchedAt": "2026-10-22T18:23:24.548Z",
+      "fetchedAt": "2026-10-22T18:41:18.245Z",
       "job": {
         "id": "90eda959-be26-48f0-83ae-a9573b18d944",
         "slug": "2027-associate-hazards-analyst-engineer-hazard-at-northrop-grumman-tlzl5k",
@@ -187,7 +187,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-associate-mechanical-mechanical-engineer-at-northrop-grumman-ozf66g",
-      "fetchedAt": "2026-10-22T18:23:25.303Z",
+      "fetchedAt": "2026-10-22T18:41:18.971Z",
       "job": {
         "id": "c18eb0e6-50f0-4bdc-8cdf-41834cef05d1",
         "slug": "2027-associate-mechanical-mechanical-engineer-at-northrop-grumman-ozf66g",
@@ -213,7 +213,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-commercial-banking-development-program-at-western-alliance-jrmfnh",
-      "fetchedAt": "2026-10-22T18:23:26.023Z",
+      "fetchedAt": "2026-10-22T18:41:19.706Z",
       "job": {
         "id": "bee139fa-7789-4d1b-a2e2-91fb2acc8c83",
         "slug": "2027-commercial-banking-development-program-at-western-alliance-jrmfnh",
@@ -239,7 +239,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-commercial-banking-development-program-at-western-alliance-pthqyf",
-      "fetchedAt": "2026-10-22T18:23:26.740Z",
+      "fetchedAt": "2026-10-22T18:41:20.454Z",
       "job": {
         "id": "31ccc33c-e200-479d-babf-3bb2918fbc4d",
         "slug": "2027-commercial-banking-development-program-at-western-alliance-pthqyf",
@@ -265,7 +265,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-early-career-business-operations-associate-at-andurilindustries-dezrhj",
-      "fetchedAt": "2026-10-22T18:23:27.491Z",
+      "fetchedAt": "2026-10-22T18:41:21.181Z",
       "job": {
         "id": "eea9b11d-41aa-46a6-ad9f-e067c7544147",
         "slug": "2027-early-career-business-operations-associate-at-andurilindustries-dezrhj",
@@ -300,7 +300,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-early-careers-analyst-underwriting-at-aig-5yfv2z",
-      "fetchedAt": "2026-10-22T18:23:28.218Z",
+      "fetchedAt": "2026-10-22T18:41:21.940Z",
       "job": {
         "id": "b9206457-9fe9-4843-b041-ee612b4e9708",
         "slug": "2027-early-careers-analyst-underwriting-at-aig-5yfv2z",
@@ -335,7 +335,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-gnc-spacecraft-payload-control-systems-at-the-aerospace-ecsxoe",
-      "fetchedAt": "2026-10-22T18:23:28.931Z",
+      "fetchedAt": "2026-10-22T18:41:22.683Z",
       "job": {
         "id": "f90d21a9-7bdc-4bdf-b168-991e60bd7996",
         "slug": "2027-gnc-spacecraft-payload-control-systems-at-the-aerospace-ecsxoe",
@@ -361,7 +361,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-investment-banking-analyst-healthcare-at-piper-sandler-pt0zmy",
-      "fetchedAt": "2026-10-22T18:23:29.632Z",
+      "fetchedAt": "2026-10-22T18:41:23.427Z",
       "job": {
         "id": "cb6bb062-2ac6-439a-a70e-5682ffcdec87",
         "slug": "2027-investment-banking-analyst-healthcare-at-piper-sandler-pt0zmy",
@@ -396,7 +396,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-leadership-and-technical-development-at-caterpillar-6pl87l",
-      "fetchedAt": "2026-10-22T18:23:30.505Z",
+      "fetchedAt": "2026-10-22T18:41:24.160Z",
       "job": {
         "id": "2074a6a8-4e94-455f-b858-6dff135bf98b",
         "slug": "2027-leadership-and-technical-development-at-caterpillar-6pl87l",
@@ -422,7 +422,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-trajectory-optimization-engineer-at-the-aerospace-ejnepf",
-      "fetchedAt": "2026-10-22T18:23:31.204Z",
+      "fetchedAt": "2026-10-22T18:41:24.901Z",
       "job": {
         "id": "8126b5b6-d65a-43e3-90ec-531be65ce2ab",
         "slug": "2027-trajectory-optimization-engineer-at-the-aerospace-ejnepf",
@@ -448,7 +448,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/2027-university-graduate-sales-development-at-adobe-8qen0k",
-      "fetchedAt": "2026-10-22T18:23:31.990Z",
+      "fetchedAt": "2026-10-22T18:41:25.634Z",
       "job": {
         "id": "97b2fc26-6191-4541-9f60-356e97e07a3f",
         "slug": "2027-university-graduate-sales-development-at-adobe-8qen0k",
@@ -483,7 +483,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/advanced-manufacturing-equipment-engineer-2027-at-globalfoundries-njf7k2",
-      "fetchedAt": "2026-10-22T18:23:32.702Z",
+      "fetchedAt": "2026-10-22T18:41:26.368Z",
       "job": {
         "id": "771f6fbd-1f8c-4e8c-9301-5f95b2d3e010",
         "slug": "advanced-manufacturing-equipment-engineer-2027-at-globalfoundries-njf7k2",
@@ -509,7 +509,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/ai-software-engineer-2027-new-college-graduate-at-globalfoundries-fb03x3",
-      "fetchedAt": "2026-10-22T18:23:33.472Z",
+      "fetchedAt": "2026-10-22T18:41:27.108Z",
       "job": {
         "id": "d786baea-d723-4999-a0fc-0824aa1c2145",
         "slug": "ai-software-engineer-2027-new-college-graduate-at-globalfoundries-fb03x3",
@@ -535,7 +535,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/excise-and-energy-credits-tax-associate-fall-at-rsm-wqlru2",
-      "fetchedAt": "2026-10-22T18:23:39.759Z",
+      "fetchedAt": "2026-10-22T18:41:27.841Z",
       "job": {
         "id": "b8950728-3bae-442e-a99b-57be114baf42",
         "slug": "excise-and-energy-credits-tax-associate-fall-at-rsm-wqlru2",
@@ -570,7 +570,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/fall-2027-audit-associate-puget-sound-at-baker-tilly-7dyhw4",
-      "fetchedAt": "2026-10-22T18:23:41.450Z",
+      "fetchedAt": "2026-10-22T18:41:28.589Z",
       "job": {
         "id": "5a0b1520-850d-4c0b-9fe4-79f30737e88c",
         "slug": "fall-2027-audit-associate-puget-sound-at-baker-tilly-7dyhw4",
@@ -605,7 +605,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/family-nurse-practitioner-or-physician-at-onemedical-9ru5jx",
-      "fetchedAt": "2026-10-22T18:23:42.384Z",
+      "fetchedAt": "2026-10-22T18:41:29.322Z",
       "job": {
         "id": "188a326b-884b-4052-8384-243b5e5e4b68",
         "slug": "family-nurse-practitioner-or-physician-at-onemedical-9ru5jx",
@@ -640,7 +640,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/family-nurse-practitioner-or-physician-at-onemedical-iy72op",
-      "fetchedAt": "2026-10-22T18:23:43.132Z",
+      "fetchedAt": "2026-10-22T18:41:30.046Z",
       "job": {
         "id": "9100f212-65a2-4ad9-8a8a-07803338bce4",
         "slug": "family-nurse-practitioner-or-physician-at-onemedical-iy72op",
@@ -675,7 +675,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/family-nurse-practitioner-or-physician-at-onemedical-no3nzz",
-      "fetchedAt": "2026-10-22T18:23:43.951Z",
+      "fetchedAt": "2026-10-22T18:41:30.794Z",
       "job": {
         "id": "a186c51e-683c-4209-9a4d-eee244ed8ff6",
         "slug": "family-nurse-practitioner-or-physician-at-onemedical-no3nzz",
@@ -710,7 +710,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/federal-tax-associate-fall-2027-winter-2028-at-rsm-gx8wkf",
-      "fetchedAt": "2026-10-22T18:23:44.669Z",
+      "fetchedAt": "2026-10-22T18:41:31.524Z",
       "job": {
         "id": "99daf0c3-4796-49ab-885e-fa5e6360d899",
         "slug": "federal-tax-associate-fall-2027-winter-2028-at-rsm-gx8wkf",
@@ -745,7 +745,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/high-performance-llm-training-engineer-new-at-nvidia-gjevws",
-      "fetchedAt": "2026-10-22T18:23:49.567Z",
+      "fetchedAt": "2026-10-22T18:41:32.253Z",
       "job": {
         "id": "8577039a-820e-4abc-ad00-0befdf78897e",
         "slug": "high-performance-llm-training-engineer-new-at-nvidia-gjevws",
@@ -780,7 +780,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/manufacturing-quality-engineer-2027-new-college-at-globalfoundries-irf507",
-      "fetchedAt": "2026-10-22T18:23:56.887Z",
+      "fetchedAt": "2026-10-22T18:41:33.056Z",
       "job": {
         "id": "d630f9f9-9654-439a-ac2b-a98f8dec8a13",
         "slug": "manufacturing-quality-engineer-2027-new-college-at-globalfoundries-irf507",
@@ -806,7 +806,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/power-architect-new-college-grad-2027-at-nvidia-nlkhuu",
-      "fetchedAt": "2026-10-22T18:24:01.206Z",
+      "fetchedAt": "2026-10-22T18:41:33.796Z",
       "job": {
         "id": "201657f5-75fb-4e10-9b68-a04d59b1b0aa",
         "slug": "power-architect-new-college-grad-2027-at-nvidia-nlkhuu",
@@ -841,7 +841,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/quality-engineer-development-program-summer-at-medline-m8g684",
-      "fetchedAt": "2026-10-22T18:24:06.839Z",
+      "fetchedAt": "2026-10-22T18:41:34.538Z",
       "job": {
         "id": "9c5efd82-0f92-4eb4-be45-b88b40142e25",
         "slug": "quality-engineer-development-program-summer-at-medline-m8g684",
@@ -867,7 +867,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/sales-development-representative-summer-2027-at-datadog-o77ic1",
-      "fetchedAt": "2026-10-22T18:24:10.368Z",
+      "fetchedAt": "2026-10-22T18:41:35.286Z",
       "job": {
         "id": "ff0356eb-f752-4e6c-bd05-94cf1b582ab0",
         "slug": "sales-development-representative-summer-2027-at-datadog-o77ic1",
@@ -902,7 +902,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/state-street-markets-professional-development-at-state-street-bf6n3p",
-      "fetchedAt": "2026-10-22T18:24:20.995Z",
+      "fetchedAt": "2026-10-22T18:41:36.020Z",
       "job": {
         "id": "6f05678b-90d9-4459-bcab-d178d77199c1",
         "slug": "state-street-markets-professional-development-at-state-street-bf6n3p",
@@ -928,7 +928,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/summer-2027-financial-analyst-class-of-2028-at-houlihan-lokey-1xmlbo",
-      "fetchedAt": "2026-10-22T18:24:22.389Z",
+      "fetchedAt": "2026-10-22T18:41:36.777Z",
       "job": {
         "id": "663818c3-367b-465e-b448-c411cf7aa003",
         "slug": "summer-2027-financial-analyst-class-of-2028-at-houlihan-lokey-1xmlbo",
