@@ -1,0 +1,13 @@
+{
+  "repository": "2027-New-Grad-Jobs-Sponsorship-Evidence",
+  "runtime": "Node.js 24",
+  "runtimeNpmInstallRequired": false,
+  "bundledDependencies": {
+    "zod": "4.6.7"
+  },
+  "buildTool": {
+    "esbuild": "0.25.12"
+  },
+  "bundleSha256": "459354cdb4ed90f77138e9a1e548390796dcc58ccf689e71ca84ff2f5de10419",
+  "sourceAdaptation": "Checked generator and collector; repository constant restricted to this repo; shared taxonomy constants copied verbatim."
+}

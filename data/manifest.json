@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "repository": "2027-New-Grad-Jobs-Sponsorship-Evidence",
+  "capturedAt": "2026-10-22T18:24:27.364Z",
+  "inspected": 30,
+  "eligible": 2,
+  "rows": 2,
+  "excluded": {
+    "unvalidated_cohort": 21,
+    "unsupported_posting_polarity": 7
+  },
+  "sourceSha256": "faac7cbfd4017f401adf15c5beb333d70f6adb9eb2e11f03a507d1ca37c46ef3",
+  "readmeSha256": "42734778efd86bba52470a03981dbf6fd0c9661425bd964fe69badc954386923"
+}

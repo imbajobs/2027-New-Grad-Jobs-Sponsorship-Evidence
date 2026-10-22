@@ -14,7 +14,7 @@ API search matches title/company, not description; cohort checks use the capture
 
 ## Legend / 图例
 
-- **Posting says yes / 原文表示支持**: stored sponsorship evidence was found in the captured description. Conditions may apply; this is no promise for every candidate. 引文已与快照中的岗位正文核对；可能附有条件，不保证适用于每位申请人。
+- **Posting says yes / 原文表示支持**: the quote explicitly supports sponsorship and was found in the captured description. Conditions may apply; this is no promise for every candidate. 引文明确表示支持签证担保，并已与快照中的岗位正文核对；可能附有条件，不保证适用于每位申请人。
 - **Posting says no / 原文表示不支持**: the posting declines sponsorship or states a citizenship/export-control restriction. Employer history never overrides it. 岗位声明不提供签证担保，或设有公民身份、出口管制限制；雇主历史不能改变此标记。
 - **Unconfirmed / 未确认**: no confirmed posting-level answer. **Unconfirmed, employer history only / 未确认，仅有雇主历史** means the employer meets Imba's H-1B filer threshold; it says nothing about this role. 未能确认此岗位的签证担保政策；有雇主 H-1B 历史也不代表此岗位支持签证。
 - Quotes are original-language excerpts of at most 120 Unicode characters, including an ellipsis if shortened. Read the full linked source for conditions. 引文保留原文，最多 120 个 Unicode 字符；截短处标有省略号，请查看完整原文。
@@ -35,5 +35,5 @@ API search matches title/company, not description; cohort checks use the capture
 - [USCIS H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub), via Imba's matched employer record. No fresh USCIS lookup was performed. Public API does not expose the history import date; snapshot date is not a USCIS data update date.
 - Job links use utm_source=github, utm_medium=list, utm_campaign=2027-New-Grad-Jobs-Sponsorship-Evidence.
 - Active in Imba and last seen within 7 days of snapshot. Employer openings can close after capture; original employer pages were not independently revalidated by this generator.
-- Exclusions in inspected sample: unvalidated_cohort=28.
+- Exclusions in inspected sample: unsupported_posting_polarity=7, unvalidated_cohort=21.
 - Sponsorship and cohort labels require posting evidence; employer history and posting dates never establish them. 签证担保及年份标记须有岗位原文依据，不根据雇主历史或发布日期推断。
