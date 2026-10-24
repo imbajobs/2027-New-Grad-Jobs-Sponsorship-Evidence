@@ -1,14 +1,14 @@
 {
   "version": 1,
   "repository": "2027-New-Grad-Jobs-Sponsorship-Evidence",
-  "capturedAt": "2026-10-23T17:53:20.551Z",
+  "capturedAt": "2026-10-24T16:35:51.314Z",
   "inspected": 30,
-  "eligible": 8,
-  "rows": 8,
+  "eligible": 9,
+  "rows": 9,
   "excluded": {
-    "unvalidated_cohort": 20,
+    "unvalidated_cohort": 19,
     "unsupported_posting_polarity": 2
   },
-  "sourceSha256": "51c3ae30500a50da84a42496b64677fa47ae722e46fb11d9c0ad27be65ff60d1",
-  "readmeSha256": "af8f0e8d23c3e05174013ca81a4f037d322bb721fd6218356ffedc11c072a19e"
+  "sourceSha256": "9a13c69ce1ef9959d4f798f57441acf4d2b4133443cbed202fe02e455b070be8",
+  "readmeSha256": "668608e4e9b028e5aacd7710e1ac36306e6994902935545b58577ede6d92f7f6"
 }
